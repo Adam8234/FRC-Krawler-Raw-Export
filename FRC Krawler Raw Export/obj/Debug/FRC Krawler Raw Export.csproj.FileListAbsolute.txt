@@ -1,0 +1,20 @@
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\FRC Krawler Raw Export.exe.config
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\FRC Krawler Raw Export.exe
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\FRC Krawler Raw Export.pdb
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\EntityFramework.dll
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\System.Data.SQLite.dll
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\EntityFramework.xml
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\System.Data.SQLite.xml
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\obj\Debug\FRC Krawler Raw Export.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\obj\Debug\FRC Krawler Raw Export.exe
+c:\users\adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\obj\Debug\FRC Krawler Raw Export.pdb
+C:\Users\Adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\x86\sqlite3.dll
+C:\Users\Adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\x64\sqlite3.dll
+C:\Users\Adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\SQLite-net.dll
+C:\Users\Adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adam\documents\visual studio 2015\Projects\FRC Krawler Raw Export\FRC Krawler Raw Export\bin\Debug\Newtonsoft.Json.xml
